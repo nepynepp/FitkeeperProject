@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="ionic-starter-master node_modules">
+    <archive path="C:/Users/nep/Desktop/ionic-fitkeeper/node_modules" />
+  </library>
+  <library name="axios">
+    <archive path="C:/Users/nep/.IntelliJIdea15/config/javascript/extLibs/http_npmcdn.com_axios_dist_axios.js" />
+  </library>
+</eclipse-userlibraries>
+
