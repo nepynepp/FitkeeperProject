@@ -1,4 +1,3 @@
-'use strict'
 var controller = require('./fitbit_controllers.js');
 var User = require('../user/user_model.js');
 module.exports = exports = function(router, passport) {
